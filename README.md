@@ -14,7 +14,8 @@
 | COCO | 通用目标检测/实例分割数据集；论文中作为通用源域与性能对比数据集出现 | [arXiv](https://arxiv.org/abs/1405.0312) | [GitHub/项目页](https://github.com/cocodataset/cocoapi) |
 | LVIS | 大词汇实例分割数据集；论文中用于开放词汇/大模型检测性能讨论 | [arXiv](https://arxiv.org/abs/1908.03195) | [GitHub/项目页](https://github.com/lvis-dataset/lvis-api) |
 | MoFSOD | 多领域少样本目标检测基准 | [arXiv](https://arxiv.org/abs/2207.11169) | [GitHub/项目页](https://github.com/amazon-research/few-shot-object-detection-benchmark) |
-| CD-FSOD | 跨域少样本目标检测基准；本文重点情境之一 | [arXiv](https://arxiv.org/abs/2210.05311) | [GitHub/项目页](https://github.com/woody-panda/CD-FSOD) |
+| CD-FSOD (Xiong) | 跨域少样本目标检测基准；本文重点情境之一 | [arXiv](https://arxiv.org/abs/2210.05311) | [GitHub/项目页](https://github.com/woody-panda/CD-FSOD) |
+| CD-FSOD (Fu) | 跨域少样本目标检测基准（ECCV 2024，Fu Yuqian） | [arXiv](https://arxiv.org/abs/2402.03094) | [GitHub/项目页](https://github.com/lovelyqian/CDFSOD-benchmark) |
 | DIOR | 光学遥感目标检测数据集；本文 COCO→DIOR 设置的目标域 | [arXiv](https://arxiv.org/abs/1909.00133) | [官方数据集页](https://gcheng-nwpu.github.io/) |
 | DOTA | 航空遥感旋转目标检测数据集 | [arXiv](https://arxiv.org/abs/1711.10398) | [GitHub/项目页](https://github.com/CAPTAIN-WHU/DOTA_devkit) |
 | xView | 大规模俯视遥感目标检测数据集 | [arXiv](https://arxiv.org/abs/1802.07856) | [GitHub/项目页](https://github.com/DIUx-xView/xView1_baseline) |
